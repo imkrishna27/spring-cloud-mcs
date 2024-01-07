@@ -14,3 +14,6 @@ server:
 spring:
   application:
     name: shopping-service
+  cloud:
+    config:
+        uri: http://localhost:7777
