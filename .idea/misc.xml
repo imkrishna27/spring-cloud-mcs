@@ -8,7 +8,13 @@
         <option value="$PROJECT_DIR$/eureka-server-service/pom.xml" />
         <option value="$PROJECT_DIR$/shopping-service/pom.xml" />
         <option value="$PROJECT_DIR$/config-ms-server/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-ms-server/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/zipkin-ms-server/pom.xml" />
+      </set>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>

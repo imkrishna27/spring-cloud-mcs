@@ -16,4 +16,4 @@ spring:
     name: shopping-service
   cloud:
     config:
-        uri: http://localhost:7777
+        uri: http://localhost:8888
